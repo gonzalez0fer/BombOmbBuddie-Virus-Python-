@@ -10,7 +10,7 @@ ya ha sido infectado, lo salta, de lo contrario lo agrega a la lista de potencia
 infectar() toma el codigo entero de si mismo y lo antepone al codigo de cada archivo victima para ejecutarlo
 primero.
 
-NombOmbBuddie() es el codigo que se ejecuta en una determinada fecha, en este caso la salida de SuperMario64
+NombOmbBuddy() es el codigo que se ejecuta en una determinada fecha, en este caso la salida de SuperMario64
 
 Es inofensivo, pero sigue siendo un programa invasivo, de modo que USAR con precaucion, no querrá eliminar
 el código archivo por archivo de su maquina.
